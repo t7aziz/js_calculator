@@ -69,7 +69,7 @@ function compute() {
   currentOperand = computation;
   operation = undefined;
   previousOperand = '';
-  updateDisplay(); // Refresh the display with the new state
+  updateDisplay(); // Refresh the display with the new statej
 }
 
 function appendDot() {
